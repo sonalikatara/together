@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  margin: 0px;
+  width: 100%;
+  height: 853px;
+  background-image: url("./images/mainbg.jpeg");
 }
 
 .App-logo {
@@ -22,6 +26,9 @@
   font-size: large;
 }
 
+.login {
+  padding-top: 20%;
+}
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
